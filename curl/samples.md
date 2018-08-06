@@ -1,4 +1,4 @@
-# Sample cURL commands
+# Sample curl commands
 
 ## Retrieve a list of contacts:
 
