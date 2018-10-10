@@ -4,7 +4,7 @@
 
 ```
 curl -X GET --http1.1 \
-    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.0/contacts' \
+    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.1/contacts' \
     -h 'Accept: application/json' \
     -h 'X-Api-Key: <API Key>' \
     -h 'Authorization: Bearer <Access Token>'
@@ -14,7 +14,7 @@ curl -X GET --http1.1 \
 
 ```
 curl -X GET --http1.1 \
-    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.0/categories/contact' \
+    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.1/categories/contact' \
     -h 'Accept: application/json' \
     -h 'X-Api-Key: <API Key>' \
     -h 'Authorization: Bearer <Access Token>'
@@ -24,7 +24,7 @@ curl -X GET --http1.1 \
 
 ```
 curl -X POST --http1.1 \
-    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.0/contacts' \
+    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.1/contacts' \
     -h 'Accept: application/json' \
     -H 'X-Api-Key: <API Key> \
     -H 'Authorization: Bearer <Access Token> \
@@ -35,7 +35,7 @@ curl -X POST --http1.1 \
 ## Update the assigned categories for a contact:
 ```
 curl -X PUT --http1.1 \
-    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.0/contacts/1442853/categories' \
+    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.1/contacts/1442853/categories' \
     -h 'Accept: application/json' \
     -H 'X-Api-Key: <API Key> \
     -H 'Authorization: Bearer <Access Token> \

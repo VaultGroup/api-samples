@@ -2,7 +2,7 @@
 
 class VaultREAPI {
 
-    private $base_url = 'https://ap-southeast-2.api.vaultre.com.au/api/v1.0';
+    private $base_url = 'https://ap-southeast-2.api.vaultre.com.au/api/v1.1';
 
     public function __construct($api_key, $bearer_token) {
         $this->api_key = $api_key;
