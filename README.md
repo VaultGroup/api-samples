@@ -14,6 +14,8 @@ When you're ready to integrate with VaultRE, we will supply you with a unique *A
 
 To access data for a VaultRE client, the client must generate and provide you with a unique *Access Token*. This should be provided with every request in the header `Authorization: Bearer <token>`.
 
+Note that each *Access Token* has a set of scopes applied, as chosen by the VaultRE client. To view the scopes assigned to a token, you can call `GET /scopes` on the API.
+
 Data Format
 ==================
 
