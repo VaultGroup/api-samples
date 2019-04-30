@@ -13,9 +13,9 @@ At a high level, your request would look something like this
 ```
 curl -X GET --http1.1 \
     --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/integrator/accounts' \
-    -h 'Accept: application/json' \
-    -h 'X-Api-Key: <API Key>' \
-    -h 'Authorization: Bearer <Token>'
+    -H 'Accept: application/json' \
+    -H 'X-Api-Key: <API Key>' \
+    -H 'Authorization: Bearer <Token>'
 ```
 
 While for normal requests the bearer token is obtained from the user, for these integrator endpoints you need to generate a JWT token.
