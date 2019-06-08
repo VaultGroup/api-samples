@@ -23,10 +23,6 @@ The API transfers data in the JSON format.
 
 All requests must be made over HTTPS.
 
-Please ensure all API requests use HTTP/1.1.
-
-Please note that when submitting data to the API, the `Content-Type` header is case sensitive.
-
 Date/Time Format
 ==================
 

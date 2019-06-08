@@ -3,7 +3,7 @@
 ## Retrieve a list of contacts:
 
 ```
-curl -X GET --http1.1 \
+curl -X GET \
     --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/contacts' \
     -H 'Accept: application/json' \
     -H 'X-Api-Key: <API Key>' \
@@ -13,7 +13,7 @@ curl -X GET --http1.1 \
 ## Retrieve a list of contact categories:
 
 ```
-curl -X GET --http1.1 \
+curl -X GET \
     --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/categories/contact' \
     -H 'Accept: application/json' \
     -H 'X-Api-Key: <API Key>' \
@@ -23,7 +23,7 @@ curl -X GET --http1.1 \
 ## Add a contact to VaultRE
 
 ```
-curl -X POST --http1.1 \
+curl -X POST \
     --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/contacts' \
     -H 'Accept: application/json' \
     -H 'X-Api-Key: <API Key> \
@@ -34,7 +34,7 @@ curl -X POST --http1.1 \
 
 ## Update the assigned categories for a contact:
 ```
-curl -X PUT --http1.1 \
+curl -X PUT \
     --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/contacts/1442853/categories' \
     -H 'Accept: application/json' \
     -H 'X-Api-Key: <API Key> \
@@ -46,7 +46,7 @@ curl -X PUT --http1.1 \
 ## Capture on online website enquiry in to VaultRE
 
 ```
-curl -X POST --http1.1 \
+curl -X POST \
     --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/enquiries' \
     -H 'Accept: application/json' \
     -H 'X-Api-Key: <API Key> \
@@ -58,7 +58,7 @@ curl -X POST --http1.1 \
 ## Get a list of currently available and published residential sale properties
 
 ```
-curl -X GET --http1.1 \
+curl -X GET \
     --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/properties/residential/sale?published=true&status=listingOrConditional' \
     -H 'Accept: application/json' \
     -H 'X-Api-Key: <API Key> \

@@ -11,7 +11,7 @@ Authentication
 At a high level, your request would look something like this
 
 ```
-curl -X GET --http1.1 \
+curl -X GET \
     --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/integrator/accounts' \
     -H 'Accept: application/json' \
     -H 'X-Api-Key: <API Key>' \
