@@ -64,3 +64,41 @@ curl -X GET \
     -H 'X-Api-Key: <API Key> \
     -H 'Authorization: Bearer <Access Token>'
 ```
+
+## Upload a small file (<5MB) to the "Filing Cabinet" for this property life
+
+```
+curl -X POST \
+    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/properties/1/sale/1/files' \
+    -H 'Accept: application/json' \
+    -H 'X-Api-Key: <API Key> \
+    -H 'Authorization: Bearer <Access Token> \
+    -F 'file=@contract.pdf'
+```
+
+
+## Upload a larger file to the "Filing Cabinet" for this property life
+
+```
+curl -X POST \
+    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/properties/1/sale/1/files/upload' \
+    -H 'Accept: application/json' \
+    -H 'X-Api-Key: <API Key> \
+    -H 'Authorization: Bearer <Access Token> \
+    -H 'Content-Type: application/json' \
+    -d '{"contentType": "image/jpeg", "filesize": 6197814, "filename": "bigimage.jpg"}'
+
+```
+Response:
+```
+{"id": 1, "upload_url": "https://upload_url.example.com/params"}
+```
+
+And now PUT the file:
+
+```
+curl -X PUT \
+    --url https://upload_url.example.com/params \
+    --upload-file bigimage.jpg \
+    -H 'Content-Type: image/jpeg'
+```
