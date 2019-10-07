@@ -55,7 +55,7 @@ VaultRE offers outbound webhooks to interested integrators. In essence, VaultRE 
 Versioning
 ==================
 
-The JSON payload from various endpoints is subject to change at any time. Within a minor version (e.g. 1.0, 1.1, 1.2) fields can be added to a JSON payload but we will endeavour to never make breaking changes (e.g. removing a field). Between versions, breaking changes may be made. Your application should be able to handle new fields being added to the JSON payload arbitrarily.
+The JSON payload from various endpoints is subject to change at any time. Within a minor version (e.g. 1.0, 1.1, 1.2) fields can be added to a JSON payload but we will endeavour to never make breaking changes (e.g. removing a field or changing a field's data type). Between versions, breaking changes may be made. Your application should be able to handle new fields being added to the JSON payload arbitrarily.
 
 
 Integrator Endpoints
