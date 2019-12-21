@@ -64,3 +64,11 @@ Integrator Endpoints
 Special endpoints are available for integrators to access data at the integration level rather than the account level.
 
 [More Information](INTEGRATORS.md)
+
+
+Changelog
+==================
+
+A list of changes to the API including new endpoints, new fields, and changes in behaviour.
+
+[More Information](CHANGELOG.md)
