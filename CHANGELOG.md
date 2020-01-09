@@ -4,6 +4,16 @@ Changelog
 ## v1.2
 
 
+### 2020-01-09
+
+- Endpoint to unlink contact from property
+
+
+### 2020-01-08
+
+- Return address components in property search endpoint and contact context endpoint
+
+
 ### 2019-12-17
 
 - Include payment type and payment reference on tenancy
