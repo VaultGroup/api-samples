@@ -4,6 +4,12 @@ Changelog
 ## v1.2
 
 
+### 2020-01-20
+
+- Lease life history now includes tenancy history
+- New endpoint to trigger resending a property to portal sites
+
+
 ### 2020-01-09
 
 - Endpoint to unlink contact from property
