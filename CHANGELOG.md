@@ -4,6 +4,11 @@ Changelog
 ## v1.2
 
 
+### 2020-01-30
+
+- Bulk endpoint for fetching feedback items
+
+
 ### 2020-01-20
 
 - Lease life history now includes tenancy history
