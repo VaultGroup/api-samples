@@ -4,6 +4,11 @@ Changelog
 ## v1.2
 
 
+### 2020-02-05
+
+- Endpoint for retrieving categories to which a supplier belongs
+
+
 ### 2020-01-30
 
 - Bulk endpoint for fetching feedback items
