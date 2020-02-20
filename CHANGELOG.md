@@ -4,6 +4,11 @@ Changelog
 ## v1.2
 
 
+### 2020-02-20
+
+- Add "tenantedInvestment" field for buyer requirements
+
+
 ### 2020-02-13
 
 - Add "zoning" field for commercial properties
