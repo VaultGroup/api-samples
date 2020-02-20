@@ -7,6 +7,7 @@ Changelog
 ### 2020-02-20
 
 - Add "tenantedInvestment" field for buyer requirements
+- Add area breakdowns for commercial properties (e.g. mezzanine, warehouse, office)
 
 
 ### 2020-02-13
