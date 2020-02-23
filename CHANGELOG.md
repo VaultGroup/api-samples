@@ -4,6 +4,11 @@ Changelog
 ## v1.2
 
 
+### 2020-02-23
+
+- Add "accessSales" and "accessPropertyManagement" permissions booleans for users
+
+
 ### 2020-02-20
 
 - Add "tenantedInvestment" field for buyer requirements
