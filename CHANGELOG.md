@@ -4,6 +4,11 @@ Changelog
 ## v1.2
 
 
+### 2020-02-28
+
+- Add "pinned" boolean to Contact Note Type object
+
+
 ### 2020-02-23
 
 - Add "accessSales" and "accessPropertyManagement" permissions booleans for users
