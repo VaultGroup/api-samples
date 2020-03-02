@@ -4,6 +4,11 @@ Changelog
 ## v1.2
 
 
+### 2020-03-02
+
+- Endpoints to retrieve sale and lease deals for a commercial property
+
+
 ### 2020-02-28
 
 - Add "pinned" boolean to Contact Note Type object
