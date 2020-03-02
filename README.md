@@ -1,7 +1,7 @@
 VaultRE API Samples
 ==================
 
-This repository contains sample cURL commands and PHP code for interacting with the VaultRE API.
+This repository contains sample cURL commands, PHP and Perl code for interacting with the VaultRE API.
 
 Full API documentation (Swagger) is available at https://docs.api.vaultre.com.au/
 
