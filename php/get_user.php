@@ -13,7 +13,7 @@ if (!$api_key || !$access_token) {
 
 $api = new VaultREAPI($api_key, $access_token);
 
-// Get contact categories
+// Get user
 list($code, $result) = $api->get('/user');
 
 if ($code == 403) {
