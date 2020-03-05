@@ -4,6 +4,11 @@ Changelog
 ## v1.2
 
 
+### 2020-03-05
+
+- Endpoint to retrieve full sale history for a given property, including commission splits
+
+
 ### 2020-03-02
 
 - Endpoints to retrieve sale and lease deals for a commercial property
