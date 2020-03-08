@@ -4,6 +4,11 @@ Changelog
 ## v1.2
 
 
+### 2020-03-08
+
+- "rates" attribute added for all sale properties, returning "water", "council" and "strata" rates
+
+
 ### 2020-03-05
 
 - Endpoint to retrieve full sale history for a given property, including commission splits
