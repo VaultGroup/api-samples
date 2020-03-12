@@ -4,6 +4,13 @@ Changelog
 ## v1.2
 
 
+### 2020-03-12
+
+- New endpoint to search for contact categories by name
+- Contacts can now be filtered by multiple "marketingUser" values at once
+- Fixed an issue filtering contacts by entityType
+
+
 ### 2020-03-08
 
 - "rates" attribute added for all sale properties, returning "water", "council" and "strata" rates
