@@ -4,6 +4,11 @@ Changelog
 ## v1.2
 
 
+### 2020-03-18
+
+- New endpoints for integrators to submit property campaign statistics
+
+
 ### 2020-03-12
 
 - New endpoint to search for contact categories by name
