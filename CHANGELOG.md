@@ -4,6 +4,11 @@ Changelog
 ## v1.2
 
 
+### 2020-03-25
+
+- New endpoint to list all suburbs in the user's country
+
+
 ### 2020-03-18
 
 - New endpoints for integrators to submit property campaign statistics
