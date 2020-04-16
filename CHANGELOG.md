@@ -4,6 +4,11 @@ Changelog
 ## v1.2
 
 
+### 2020-04-16
+
+- Added a new "addressVisibility" enum field on property objects
+
+
 ### 2020-03-25
 
 - New endpoint to list all suburbs in the user's country
