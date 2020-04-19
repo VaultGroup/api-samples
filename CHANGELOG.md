@@ -9,6 +9,7 @@ Changelog
 - When creating or updating Buy/Lease Requirements for contacts,
   the Suburb object (name, postcode, state etc) can now be passed
   in as opposed to a suburb ID.
+- "Leased" rental properties can now be filtered in the API.
 
 
 ### 2020-04-16
