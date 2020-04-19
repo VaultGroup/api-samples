@@ -4,6 +4,13 @@ Changelog
 ## v1.2
 
 
+### 2020-04-19
+
+- When creating or updating Buy/Lease Requirements for contacts,
+  the Suburb object (name, postcode, state etc) can now be passed
+  in as opposed to a suburb ID.
+
+
 ### 2020-04-16
 
 - Added a new "addressVisibility" enum field on property objects
