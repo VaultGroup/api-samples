@@ -4,6 +4,10 @@ Changelog
 ## v1.2
 
 
+### 2020-05-11
+- New endpoint to retrieve the activity log for a contact
+
+
 ### 2020-04-29
 - New endpoints to remove owner/purchaser/landlord/tenant from property
 - New endpoint to create a Scheduled Viewing for a property
