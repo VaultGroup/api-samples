@@ -4,6 +4,10 @@ Changelog
 ## v1.2
 
 
+### 2020-05-12
+- "externalLinks" attribute is now available on property list endpoints
+
+
 ### 2020-05-11
 - New endpoint to retrieve the activity log for a contact
 
