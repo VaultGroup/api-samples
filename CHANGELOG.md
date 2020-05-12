@@ -6,6 +6,7 @@ Changelog
 
 ### 2020-05-12
 - "externalLinks" attribute is now available on property list endpoints
+- New endpoint to retrieve a list of leased commercial properties
 
 
 ### 2020-05-11
