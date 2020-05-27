@@ -6,6 +6,7 @@ Changelog
 
 ### 2020-05-24
 - "frontage" field is now exposed on all property classifications
+- New endpoint to retrieve property/category mappings in bulk
 
 
 ### 2020-05-12
