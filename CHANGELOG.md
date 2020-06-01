@@ -4,6 +4,10 @@ Changelog
 ## v1.2
 
 
+### 2020-06-01
+- Properties can now be filtered by price reductions in a date range
+
+
 ### 2020-05-24
 - "frontage" field is now exposed on all property classifications
 - New endpoint to retrieve property/category mappings in bulk
