@@ -6,6 +6,7 @@ Changelog
 
 ### 2020-06-01
 - Properties can now be filtered by price reductions in a date range
+- New endpoint for retrieving enquiries from the holding area
 
 
 ### 2020-05-24
