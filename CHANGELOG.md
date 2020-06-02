@@ -4,6 +4,10 @@ Changelog
 ## v1.2
 
 
+### 2020-06-02
+- Enquiries can now be filtered by sale/lease life ID
+
+
 ### 2020-06-01
 - Properties can now be filtered by price reductions in a date range
 - New endpoint for retrieving enquiries from the holding area
