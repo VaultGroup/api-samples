@@ -4,6 +4,10 @@ Changelog
 ## v1.2
 
 
+### 2020-06-03
+- The energy rating field is now exposed on property endpoints
+
+
 ### 2020-06-02
 - Enquiries can now be filtered by sale/lease life ID
 
