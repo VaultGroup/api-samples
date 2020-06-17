@@ -4,6 +4,10 @@ Changelog
 ## v1.2
 
 
+### 2020-06-17
+- New endpoints to retrieve "available" properties. These endpoints are shortcuts for applying certain filters to the property endpoints.
+
+
 ### 2020-06-03
 - The energy rating field is now exposed on property endpoints
 
