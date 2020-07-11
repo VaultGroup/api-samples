@@ -4,6 +4,14 @@ Changelog
 ## v1.2
 
 
+### 2020-07-11
+- A new property status of "withdrawnAppraisal" is now available for filtering
+
+
+### 2020-07-09
+- A new endpoint to retrieve upcoming and recent tenancy inspections
+
+
 ### 2020-06-17
 - New endpoints to retrieve "available" properties. These endpoints are shortcuts for applying certain filters to the property endpoints.
 
