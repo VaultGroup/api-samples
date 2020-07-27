@@ -4,6 +4,15 @@ Changelog
 ## v1.2
 
 
+### 2020-07-27
+- Added ensuites and toilets fields to Residential Property object
+- Added receptionRooms field to Residential Property object (UK only)
+
+
+### 2020-07-19
+- Adverting suppliers can now be fetched, updated and created
+
+
 ### 2020-07-11
 - A new property status of "withdrawnAppraisal" is now available for filtering
 
