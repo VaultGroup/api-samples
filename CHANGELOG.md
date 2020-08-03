@@ -4,6 +4,10 @@ Changelog
 ## v1.2
 
 
+### 2020-08-03
+- Initial release of the /eventStream API endpoint
+
+
 ### 2020-07-27
 - Added ensuites and toilets fields to Residential Property object
 - Added receptionRooms field to Residential Property object (UK only)
