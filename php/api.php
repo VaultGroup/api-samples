@@ -9,8 +9,12 @@ class VaultREAPI {
         $this->bearer_token = $bearer_token;
     }
 
+    private function get_url($url) {
+        return (strpos($url, $this->base_url) !== false) ? $url : $this->base_url . $url;
+    }
+
     public function get($endpoint) {
-        $ch = curl_init($this->base_url . $endpoint);
+        $ch = curl_init($this->get_url($endpoint));
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
         curl_setopt($ch, CURLOPT_HTTPHEADER, array('Accept: application/json', 'X-Api-Key: ' . $this->api_key, 'Authorization: Bearer ' . $this->bearer_token));
         $result = curl_exec($ch);
@@ -19,7 +23,7 @@ class VaultREAPI {
     }
 
     public function post($endpoint, $payload) {
-        $ch = curl_init($this->base_url . $endpoint);
+        $ch = curl_init($this->get_url($endpoint));
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
         curl_setopt($ch, CURLOPT_POST, 1);
         curl_setopt($ch, CURLOPT_POSTFIELDS, $payload);
@@ -31,7 +35,7 @@ class VaultREAPI {
     }
 
     public function put($endpoint, $payload) {
-        $ch = curl_init($this->base_url . $endpoint);
+        $ch = curl_init($this->get_url($endpoint));
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
         curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "PUT");
         curl_setopt($ch, CURLOPT_POSTFIELDS, $payload);
@@ -43,7 +47,7 @@ class VaultREAPI {
     }
 
     public function delete($endpoint) {
-        $ch = curl_init($this->base_url . $endpoint);
+        $ch = curl_init($this->get_url($endpoint));
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
         curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "DELETE");
         curl_setopt($ch, CURLOPT_HTTPHEADER,
