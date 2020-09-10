@@ -4,6 +4,10 @@ Changelog
 ## v1.2
 
 
+### 2020-09-10
+- The "Price Qualifier" field (for UK and NZ accounts) is now included in the SaleProperty model
+
+
 ### 2020-08-17
 - Properties can now be filtered by listing authority date, web live date (the date the listing was first published to the web), and leased date
 
