@@ -4,6 +4,10 @@ Changelog
 ## v1.2
 
 
+### 2020-09-15
+- The branch field is now exposed on property API calls if the account uses "branches".
+
+
 ### 2020-09-10
 - The "Price Qualifier" field (for UK and NZ accounts) is now included in the SaleProperty model
 
