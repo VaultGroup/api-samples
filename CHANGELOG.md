@@ -4,6 +4,10 @@ Changelog
 ## v1.2
 
 
+### 2020-09-16
+- "tenderDetails" and "setSaleDateDetails" fields are now exposed on property endpoints.
+
+
 ### 2020-09-15
 - The branch field is now exposed on property API calls if the account uses "branches".
 
