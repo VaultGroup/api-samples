@@ -4,6 +4,10 @@ Changelog
 ## v1.2
 
 
+### 2020-09-20
+- "Land Value", "Improvement Value" and "Rateable Value" fields are now available on property endpoints for NZ accounts
+
+
 ### 2020-09-16
 - "tenderDetails" and "setSaleDateDetails" fields are now exposed on property endpoints.
 
