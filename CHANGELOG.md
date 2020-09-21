@@ -4,6 +4,10 @@ Changelog
 ## v1.2
 
 
+### 2020-09-21
+- /calendar/event endpoints are now available for third party integrators (at at office-level integration)
+
+
 ### 2020-09-20
 - "Land Value", "Improvement Value" and "Rateable Value" fields are now available on property endpoints for NZ accounts
 
