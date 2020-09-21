@@ -4,6 +4,10 @@ Changelog
 ## v1.2
 
 
+### 2020-09-22
+- "websiteUrl" is now exposed on the User model
+
+
 ### 2020-09-21
 - /calendar/event endpoints are now available for third party integrators (at at office-level integration)
 
