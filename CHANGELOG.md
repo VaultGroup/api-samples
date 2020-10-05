@@ -1,5 +1,12 @@
 Changelog
 ==================
+## v1.3
+
+
+### 2020-10-06
+- v1.3 released
+- Released /properties/{id}/keys endpoints
+- "keyID", "keyOut" in the Property model have been deprecated and should not be used. Use the /keys endpoints instead.
 
 ## v1.2
 

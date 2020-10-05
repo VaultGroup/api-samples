@@ -5,7 +5,7 @@ This repository contains sample cURL commands, PHP and Perl code for interacting
 
 Full API documentation (Swagger) is available at https://docs.api.vaultre.com.au/
 
-The current version of the API is **1.2**.
+The current version of the API is **1.3**.
 
 Authentication Flow
 ==================
