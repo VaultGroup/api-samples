@@ -4,6 +4,10 @@ Changelog
 ## v1.2
 
 
+### 2020-10-05
+- "highlights" is now exposed on the single property endpoints
+
+
 ### 2020-09-22
 - "websiteUrl" is now exposed on the User model
 
