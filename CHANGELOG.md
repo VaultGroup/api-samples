@@ -7,6 +7,8 @@ Changelog
 - Released /keys endpoints
 - "keyID", "keyOut" on the Property model have been removed. The /keys endpoints should now be used instead.
 - "keys", a list of Propery Key objects, is now exposed on the single property endpoints.
+- "tenureOrTitleType" can now be viewed and set on properties (UK and NZ accounts only)
+- New endpoint to retrieve a list of tenure/title types (GET /types/tenureOrTitleTypes)
 
 
 ## v1.2
