@@ -7,6 +7,7 @@ Changelog
 - v1.3 released
 - Released /keys endpoints
 - "keyID", "keyOut" on the Property model have been removed. The /keys endpoints should now be used instead.
+- "keys", a list of Propery Key objects, is now exposed on the single property endpoints.
 
 ## v1.2
 
