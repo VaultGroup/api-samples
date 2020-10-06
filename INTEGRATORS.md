@@ -12,7 +12,7 @@ At a high level, your request would look something like this
 
 ```
 curl -X GET \
-    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/integrator/accounts' \
+    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.3/integrator/accounts' \
     -H 'Accept: application/json' \
     -H 'X-Api-Key: <API Key>' \
     -H 'Authorization: Bearer <Token>'

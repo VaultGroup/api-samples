@@ -4,7 +4,7 @@
 
 ```
 curl -X GET \
-    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/contacts' \
+    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.3/contacts' \
     -H 'Accept: application/json' \
     -H 'X-Api-Key: <API Key>' \
     -H 'Authorization: Bearer <Access Token>'
@@ -14,7 +14,7 @@ curl -X GET \
 
 ```
 curl -X GET \
-    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/categories/contact' \
+    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.3/categories/contact' \
     -H 'Accept: application/json' \
     -H 'X-Api-Key: <API Key>' \
     -H 'Authorization: Bearer <Access Token>'
@@ -24,7 +24,7 @@ curl -X GET \
 
 ```
 curl -X POST \
-    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/contacts' \
+    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.3/contacts' \
     -H 'Accept: application/json' \
     -H 'X-Api-Key: <API Key> \
     -H 'Authorization: Bearer <Access Token> \
@@ -35,7 +35,7 @@ curl -X POST \
 ## Update the assigned categories for a contact:
 ```
 curl -X PUT \
-    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/contacts/1442853/categories' \
+    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.3/contacts/1442853/categories' \
     -H 'Accept: application/json' \
     -H 'X-Api-Key: <API Key> \
     -H 'Authorization: Bearer <Access Token> \
@@ -47,7 +47,7 @@ curl -X PUT \
 
 ```
 curl -X POST \
-    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/enquiries' \
+    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.3/enquiries' \
     -H 'Accept: application/json' \
     -H 'X-Api-Key: <API Key> \
     -H 'Authorization: Bearer <Access Token> \
@@ -59,7 +59,7 @@ curl -X POST \
 
 ```
 curl -X GET \
-    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/properties/residential/sale?published=true&status=listingOrConditional' \
+    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.3/properties/residential/sale?published=true&status=listingOrConditional' \
     -H 'Accept: application/json' \
     -H 'X-Api-Key: <API Key> \
     -H 'Authorization: Bearer <Access Token>'
@@ -69,7 +69,7 @@ curl -X GET \
 
 ```
 curl -X POST \
-    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/properties/1/sale/1/files' \
+    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.3/properties/1/sale/1/files' \
     -H 'Accept: application/json' \
     -H 'X-Api-Key: <API Key> \
     -H 'Authorization: Bearer <Access Token> \
@@ -81,7 +81,7 @@ curl -X POST \
 
 ```
 curl -X POST \
-    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2/properties/1/sale/1/files/upload' \
+    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.3/properties/1/sale/1/files/upload' \
     -H 'Accept: application/json' \
     -H 'X-Api-Key: <API Key> \
     -H 'Authorization: Bearer <Access Token> \

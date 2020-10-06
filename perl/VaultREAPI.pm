@@ -16,7 +16,7 @@ sub new {
     my $self = {
         api_key => shift,
         bearer_token => shift,
-        base_url => 'https://ap-southeast-2.api.vaultre.com.au/api/v1.2',
+        base_url => 'https://ap-southeast-2.api.vaultre.com.au/api/v1.3',
     };
 
     croak "Missing API key" unless $self->{api_key};
