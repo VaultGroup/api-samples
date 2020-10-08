@@ -2,6 +2,10 @@ Changelog
 ==================
 ## v1.3
 
+
+### 2020-10-08
+- Contact bank accounts can now be viewed, edited and removed
+
 ### 2020-10-06
 - v1.3 released
 - Released /keys endpoints
