@@ -3,6 +3,11 @@ Changelog
 ## v1.3
 
 
+### 2020-10-10
+- Contact Date Types for the given account can now be retrieved
+- Contact Dates can now be retrieved
+
+
 ### 2020-10-08
 - Contact bank accounts can now be viewed, edited and removed
 
