@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2020-11-10
+- Released /search/contacts endpoint to search on multiple parameters at once
+
+
 ### 2020-10-10
 - Contact Date Types for the given account can now be retrieved
 - Contact Dates can now be retrieved
