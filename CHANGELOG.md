@@ -3,6 +3,11 @@ Changelog
 ## v1.3
 
 
+### 2020-11-15
+- Contact distribution lists can now be fetched on GET /distributionLists/contact
+- Contacts can be filtered by distribution list
+
+
 ### 2020-11-10
 - Released /search/contacts endpoint to search on multiple parameters at once
 
