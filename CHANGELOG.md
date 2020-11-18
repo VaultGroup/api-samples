@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2020-11-18
+- Property list endpoints can now be filtered by a set of property IDs
+
+
 ### 2020-11-15
 - Contact distribution lists can now be fetched on GET /distributionLists/contact
 - Contacts can be filtered by distribution list
