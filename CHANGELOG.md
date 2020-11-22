@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2020-11-23
+- The "portalStatus" field is now included in property responses. This represents the status that should be displayed on online portals, as opposed to the actual status of the property.
+
+
 ### 2020-11-18
 - Property list endpoints can now be filtered by a set of property IDs
 
