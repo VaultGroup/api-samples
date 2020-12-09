@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2020-12-09
+- It is now possible to get a list of portal sites to which each property is published
+
+
 ### 2020-12-07
 - Sold properties can now be sorted by sale price or search price
 
