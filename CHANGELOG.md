@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2020-12-10
+- The bulk current owner/purchaser/landlord/tenant endpoints now allow filtering by modify date
+
+
 ### 2020-12-09
 - It is now possible to get a list of portal sites to which each property is published
 
