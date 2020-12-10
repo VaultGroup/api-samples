@@ -5,6 +5,7 @@ Changelog
 
 ### 2020-12-10
 - The bulk current owner/purchaser/landlord/tenant endpoints now allow filtering by modify date
+- The account postal address is now included in the Account model
 
 
 ### 2020-12-09
