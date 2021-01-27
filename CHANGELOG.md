@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2021-01-27
+- It is now possible to add or update contact category groupings
+
+
 ### 2021-01-18
 - Tasks can now be filtered by date inserted
 
