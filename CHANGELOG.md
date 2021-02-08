@@ -5,6 +5,7 @@ Changelog
 
 ### 2021-02-08
 - Sold properties can now be filtered by suburb
+- Contact objects now display a smsUnsubscribeUrl field
 
 
 ### 2021-01-27
