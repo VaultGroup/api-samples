@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2021-02-08
+- Sold properties can now be filtered by suburb
+
+
 ### 2021-01-27
 - It is now possible to add or update contact category groupings
 
