@@ -2,6 +2,10 @@ Changelog
 ==================
 ## v1.3
 
+### 2020-02-12
+- /types/holdingArea Retrieve a list of holding area types
+- /enquiries now accepts a "source" parameter. Pass in a holding area type API code to filter enquiries by type.
+
 
 ### 2021-02-08
 - Sold properties can now be filtered by suburb
