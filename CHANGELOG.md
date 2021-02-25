@@ -2,6 +2,11 @@ Changelog
 ==================
 ## v1.3
 
+
+### 2021-02-25
+- A new endpoint is available to find all contact records merged in to a given contact (GET /contacts/{contactid}/merged)
+
+
 ### 2021-02-15
 - The bulk contact notes endpoint can now be filtered by insertedSince and insertedBefore
 
