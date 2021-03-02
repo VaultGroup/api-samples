@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2021-03-02
+- The /account/users endpoint now allows filtering by email address
+
+
 ### 2021-02-25
 - A new endpoint is available to find all contact records merged in to a given contact (GET /contacts/{contactid}/merged)
 
