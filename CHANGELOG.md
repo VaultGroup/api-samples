@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2021-03-10
+- A new endpoint, /properties/{id}/{salelease}/{lifeid}/portalIds is now available to retrieve known IDs of properties on portal sites
+
+
 ### 2021-03-02
 - The /account/users endpoint now allows filtering by email address
 
