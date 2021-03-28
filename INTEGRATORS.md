@@ -28,4 +28,4 @@ Secret (used for signing): `<secret key provided by VaultRE>`
 
 Use the generated token as the bearer token for these requests. The generated tokens are valid for 300 seconds.
 
-Sample code for generated a JWT token is available [here](python/create_jwt.py)
+Sample code for generating a JWT token is available [here](python/create_jwt.py)
