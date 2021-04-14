@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2021-04-14
+- "publishedToWeb" date field is now available on sale properties. This represents the date a sale property was first published to the web.
+
+
 ### 2021-03-10
 - A new endpoint, /properties/{id}/{salelease}/{lifeid}/portalIds is now available to retrieve known IDs of properties on portal sites
 
