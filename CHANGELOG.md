@@ -3,8 +3,16 @@ Changelog
 ## v1.3
 
 
+### 2021-04-16
+- When uploading a file to the filing cabinet for a lease property, you can now specify to which tenancy record the file relates.
+
+
 ### 2021-04-14
 - "publishedToWeb" date field is now available on sale properties. This represents the date a sale property was first published to the web.
+
+
+### 2021-04-08
+- "inserted" and "modified" fields are now available in the SaleHistory and LeaseHistory objects
 
 
 ### 2021-03-10
