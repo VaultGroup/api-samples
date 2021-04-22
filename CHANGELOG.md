@@ -5,6 +5,7 @@ Changelog
 
 ### 2021-04-22
 - The "contactStaff" array is now included in the saleHistory object on a property.
+- The "contactStaff" array is now included in the leaseHistory object on a property.
 
 
 ### 2021-04-16
