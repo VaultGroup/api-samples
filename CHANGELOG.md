@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2021-04-22
+- The "contactStaff" array is now included in the saleHistory object on a property.
+
+
 ### 2021-04-16
 - When uploading a file to the filing cabinet for a lease property, you can now specify to which tenancy record the file relates.
 
