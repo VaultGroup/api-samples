@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2021-05-04
+- A new endpoint /openHomes is now available to retrieve open homes across multiple properties.
+
+
 ### 2021-04-22
 - The "contactStaff" array is now included in the saleHistory object on a property.
 - The "contactStaff" array is now included in the leaseHistory object on a property.
