@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2021-05-25
+- releaseDate and isReleasedSale fields are now available in the SaleHistory object. These relate to release of funds in Victoria and New Zealand.
+
+
 ### 2021-05-04
 - A new endpoint /openHomes is now available to retrieve open homes across multiple properties.
 
