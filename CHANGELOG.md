@@ -3,6 +3,11 @@ Changelog
 ## v1.3
 
 
+### 2021-05-31
+- It is now possible to submit enquiries attached to a specific user rather than a property (e.g. from a "Contact Me" page)
+- Enquiries can now also be filtered by a particular user (for user-attached enquiries)
+
+
 ### 2021-05-25
 - releaseDate and isReleasedSale fields are now available in the SaleHistory object. These relate to release of funds in Victoria and New Zealand.
 
