@@ -3,6 +3,14 @@ Changelog
 ## v1.3
 
 
+### 2021-06-22
+- A new endpoint, /contacts/dates,  is now available to retrieve all contact dates
+
+
+### 2021-06-21
+- Suburb objects now include an "nzDistrict" field
+
+
 ### 2021-05-31
 - It is now possible to submit enquiries attached to a specific user rather than a property (e.g. from a "Contact Me" page)
 - Enquiries can now also be filtered by a particular user (for user-attached enquiries)
