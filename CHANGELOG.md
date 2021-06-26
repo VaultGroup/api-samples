@@ -3,6 +3,12 @@ Changelog
 ## v1.3
 
 
+### 2021-06-26
+- Custom unsubscribe types per account are now supported
+- A new endpoint, /types/customUnsubscribe, is now available to retrieve all unsubscribe types for the account
+- The Contact model now returns the customUnsubscribe type array. This can also be set on POST/PUT operations.
+
+
 ### 2021-06-22
 - A new endpoint, /contacts/dates,  is now available to retrieve all contact dates
 
