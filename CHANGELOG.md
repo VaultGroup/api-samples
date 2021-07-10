@@ -3,6 +3,11 @@ Changelog
 ## v1.3
 
 
+### 2021-07-10
+- Precincts can now be fetched (GET /precincts)
+- Properties can now be filtered by precinct
+
+
 ### 2021-06-26
 - Custom unsubscribe types per account are now supported
 - A new endpoint, /types/customUnsubscribe, is now available to retrieve all unsubscribe types for the account
