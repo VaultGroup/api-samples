@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2021-07-29
+- Deductions are now included on commission splits
+
+
 ### 2021-07-10
 - Precincts can now be fetched (GET /precincts)
 - Properties can now be filtered by precinct
