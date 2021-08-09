@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2021-08-10
+- The sold property endpoints can now optionally include conditional (written) sales
+
+
 ### 2021-07-29
 - Deductions are now included on commission splits
 
