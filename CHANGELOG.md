@@ -3,6 +3,11 @@ Changelog
 ## v1.3
 
 
+### 2021-08-11
+- A new field "electronicTable" is now exposed on the property life files endpoint, indicating whether
+  or not a file is exposed on the eTable for the given sale/lease.
+
+
 ### 2021-08-10
 - The sold property endpoints can now optionally include conditional (written) sales
 
