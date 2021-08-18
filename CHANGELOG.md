@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2021-08-18
+- Sold properties can now be filtered by more fields (bed,bath,car,property type, sale price)
+
+
 ### 2021-08-11
 - A new field "electronicTable" is now exposed on the property life files endpoint, indicating whether
   or not a file is exposed on the eTable for the given sale/lease.
