@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2021-09-16
+- The Council Tax Band field is now displayed on the property model (UK accounts only)
+
+
 ### 2021-08-18
 - Sold properties can now be filtered by more fields (bed,bath,car,property type, sale price)
 
