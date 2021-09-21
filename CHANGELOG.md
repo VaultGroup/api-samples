@@ -3,6 +3,11 @@ Changelog
 ## v1.3
 
 
+### 2021-09-21
+- Pre-distribution deductions are now included on sold endpoints
+- The Gross Commission (less deductions) figure is now available on sold endpoints
+
+
 ### 2021-09-16
 - The Council Tax Band field is now displayed on the property model (UK accounts only)
 
