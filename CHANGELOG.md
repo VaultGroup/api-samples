@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2021-09-24
+- The sold property endpoints can now optionally include fallen/crashed conditional (written) sales
+
+
 ### 2021-09-21
 - Pre-distribution deductions are now included on sold endpoints
 - The Gross Commission (less deductions) figure is now available on sold endpoints
