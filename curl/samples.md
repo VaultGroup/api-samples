@@ -102,3 +102,17 @@ curl -X PUT \
     --upload-file bigimage.jpg \
     -H 'Content-Type: image/jpeg'
 ```
+
+## Upload a small property photo (<5MB) with metadata fields
+
+```
+curl -X POST \
+    --url 'https://ap-southeast-2.api.vaultre.com.au/api/v1.3/properties/1/photos' \
+    -H 'Accept: application/json' \
+    -H 'X-Api-Key: <API Key> \
+    -H 'Authorization: Bearer <Access Token> \
+    -F 'photo=@house.jpg' \
+    -F 'caption=House' \
+    -F 'published=true' \
+    -F 'type=Photograph'
+```
