@@ -3,6 +3,11 @@ Changelog
 ## v1.3
 
 
+### 2021-12-24
+- All property endpoints can now filter by property type
+- The /user endpoint now contains information about the teams to which the user is attached
+
+
 ### 2021-09-24
 - The sold property endpoints can now optionally include fallen/crashed conditional (written) sales
 
