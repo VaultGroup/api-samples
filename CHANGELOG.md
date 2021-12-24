@@ -5,6 +5,7 @@ Changelog
 
 ### 2021-12-24
 - All property endpoints can now filter by property type
+- All property endpoints can now sort by land or floor area
 - The /user endpoint now contains information about the teams to which the user is attached
 
 
