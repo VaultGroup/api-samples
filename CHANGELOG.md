@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2022-01-31
+- A new endpoint is available to retrieve property offers (GET /propertyOffers)
+
+
 ### 2021-12-24
 - All property endpoints can now filter by property type
 - All property endpoints can now sort by land or floor area
