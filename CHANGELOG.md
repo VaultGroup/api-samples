@@ -3,6 +3,11 @@ Changelog
 ## v1.3
 
 
+### 2022-03-08
+- Adverting expense types can now be fetched
+- Adverting transactions on a property ledger can now be fetched
+
+
 ### 2022-01-31
 - A new endpoint is available to retrieve property offers (GET /propertyOffers)
 
