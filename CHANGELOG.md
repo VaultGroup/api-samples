@@ -6,6 +6,8 @@ Changelog
 ### 2022-03-13
 - Adverting schedules can now be fetched
 - Adverting schedules assigned to a property can now be fetched
+- A new endpoint to retrieve bulk "source of enquiry" mappings is now available
+- Previously submitted property portal stats can now be retrieved
 
 
 ### 2022-03-08
