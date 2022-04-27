@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2022-04-27
+- Property files now include an "isPublic" attribute, which can also be filtered in the request.
+
+
 ### 2022-03-13
 - Adverting schedules can now be fetched
 - Adverting schedules assigned to a property can now be fetched
