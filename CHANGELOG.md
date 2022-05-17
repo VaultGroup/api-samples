@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2022-05-17
+- Solicitors for a given property life can now be fetched.
+
+
 ### 2022-04-27
 - Property files now include an "isPublic" attribute, which can also be filtered in the request.
 
