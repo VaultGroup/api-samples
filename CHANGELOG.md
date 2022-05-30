@@ -4,10 +4,10 @@ Changelog
 
 
 ### 2022-05-30
-- Lease properties now include council rates.
-- Sale properties now include shared ownership details.
-- Leasehold details are now exposed on the single sale property endpoints. 
-- A new endpoint is available to retrieve property rooms.
+- Lease properties now include council rates (UK accounts only)
+- Sale properties now include shared ownership details (UK accounts only)
+- Leasehold details are now exposed on the single sale property endpoints (UK accounts only)
+- A new endpoint is available to retrieve property rooms (UK accounts only)
 
 
 ### 2022-05-17
