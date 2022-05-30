@@ -3,6 +3,13 @@ Changelog
 ## v1.3
 
 
+### 2022-05-30
+- Lease properties now include council rates.
+- Sale properties now include shared ownership details.
+- Leasehold details are now exposed on the single sale property endpoints. 
+- A new endpoint is available to retrieve property rooms.
+
+
 ### 2022-05-17
 - Solicitors for a given property life can now be fetched.
 
