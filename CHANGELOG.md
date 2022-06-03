@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2022-06-03
+- New endpoints are available for retrieving listing configurations and strata properties under a strata building record
+
+
 ### 2022-05-30
 - Lease properties now include council rates (UK accounts only)
 - Sale properties now include shared ownership details (UK accounts only)
