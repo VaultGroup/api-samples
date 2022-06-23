@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2022-06-24
+- The "isNewHome" field is now displayed on property life objects
+
+
 ### 2022-06-03
 - New endpoints are available for retrieving listing configurations and strata properties under a strata building record
 
