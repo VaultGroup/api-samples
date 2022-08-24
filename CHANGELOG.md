@@ -3,6 +3,9 @@ Changelog
 ## v1.3
 
 
+### 2022-08-24
+- The "isOurListing" field is now displayed on sold and sale property life objects
+
 ### 2022-06-24
 - The "isNewHome" field is now displayed on property life objects
 
