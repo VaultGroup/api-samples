@@ -3,11 +3,18 @@ Changelog
 ## v1.3
 
 
+### 2022-09-12
+- Sale details for properties now include the net income to office field
+- Office referrals are now also included in the sale details
+
+
 ### 2022-09-07
 - The "furnished" object is now exposed on the lease property endpoints
 
+
 ### 2022-08-24
 - The "isOurListing" field is now displayed on sold and sale property life objects
+
 
 ### 2022-06-24
 - The "isNewHome" field is now displayed on property life objects
