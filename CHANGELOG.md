@@ -3,6 +3,10 @@ Changelog
 ## v1.3
 
 
+### 2022-11-03
+- Property list endpoints can now be filtered by "letAgreed" attribute
+
+
 ### 2022-09-12
 - Sale details for properties now include the net income to office field
 - Office referrals are now also included in the sale details
