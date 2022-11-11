@@ -3,8 +3,8 @@ Changelog
 ## v1.3
 
 
-### 2022-11-09
-- The "internalMarketingLiveDate" field is now displayed on property life objects
+### 2022-11-11
+- The "internalMarketingLiveDate" field is now displayed on property life objects. This represents the date the listing was first marked for "Internal Marketing".
 
 
 ### 2022-11-03
