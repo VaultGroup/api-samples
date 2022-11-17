@@ -5,7 +5,7 @@ Changelog
 
 ### 2022-11-17
 - A new endpoint is available to retrieve single enquiries from the holding area (GET /enquiries/{id})
-- POST requests on "properties/{id}/activityLog" endpoint are now supported
+- POST requests on "/properties/{id}/activityLog" endpoint are now supported
 
 
 ### 2022-11-11
