@@ -7,6 +7,7 @@ Changelog
 - A new endpoint is available to retrieve single enquiries from the holding area (GET /enquiries/{id})
 - POST requests on "properties/{id}/activityLog" endpoint are now supported
 
+
 ### 2022-11-11
 - The "internalMarketingLiveDate" field is now displayed on property life objects. This represents the date the listing was first marked for "Internal Marketing".
 
